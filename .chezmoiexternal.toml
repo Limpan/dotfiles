@@ -1,0 +1,14 @@
+[".zprezto"]
+    type = "git-repo"
+    url = "https://github.com/sorin-ionescu/prezto.git"
+    refreshPeriod = "168h"
+
+[".zprezto/contrib"]
+    type = "git-repo"
+    url = "https://github.com/belak/prezto-contrib.git"
+    refreshPeriod = "168h"
+
+[".tmux/plugins/tpm"]
+    type = "git-repo"
+    url = "https://github.com/tmux-plugins/tpm"
+    refreshPeriod = "1h"
